@@ -1,0 +1,24 @@
+    "1988       AT&T\r\n" +
+    "2009-2014  Attila Szegedi\r\n" +
+    "1995       Colin Plumb\r\n" +
+    "1999-2014  Free Software Foundation\r\n" +
+    "2001-2005  freebxml.org\r\n" +
+    "1998       FundsXpress, INC.\r\n" +
+    "2009       Google Inc.\r\n" +
+    "2008-2013  i-net software\r\n" +
+    "2000-2013  INRIA, France Telecom\r\n" +
+    "1993-2013  International Business Machines, Inc.\r\n" +
+    "2002-2015  Jeroen Frijters\r\n" +
+    "1994-2015  Oracle and/or its affiliates\r\n" +
+    "2007       Red Hat, Inc.\r\n" +
+    "2007-2013  Stephen Colebourne & Michael Nascimento Santos\r\n" +
+    "1993-1997  Sun Microsystems, Inc.\r\n" +
+    "1996-1998  Taligent, Inc.\r\n" +
+    "2001-2002  Thai Open Source Software Center Ltd\r\n" +
+    "1999-2006  The Apache Software Foundation\r\n" +
+    "1995-2000  The Cryptix Foundation Limited\r\n" +
+    "1997       The Open Group Research Institute\r\n" +
+    "1991-2012  Unicode, Inc.\r\n" +
+    "1999       Visual Numerics Inc.\r\n" +
+    "2003       Wily Technology, Inc.\r\n" +
+    "2000-2004  World Wide Web Consortium"
