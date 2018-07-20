@@ -64,8 +64,8 @@
                 <include name="IKVM.Runtime.JNI.dll" />
             </fileset>
         </copy>
-        <copy file="../bin/ikvm-native-win32-x64.dll" todir="Package/x64/lib" />
-        <copy file="../bin/ikvm-native-win32-x86.dll" todir="Package/x86/lib" />
+        <!-- <copy file="../bin/ikvm-native-win32-x64.dll" todir="Package/x64/lib" />
+        <copy file="../bin/ikvm-native-win32-x86.dll" todir="Package/x86/lib" /> -->
         <copy file="../bin-x64/JVM.DLL" todir="Package/x64/lib" />
         <copy file="../bin-x86/JVM.DLL" todir="Package/x86/lib" />
     </target>
