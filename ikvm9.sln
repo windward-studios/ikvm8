@@ -1,5 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKVM.Runtime.8", "runtime\IKVM.Runtime.8.csproj", "{F5C7B588-0403-4AF2-A4DE-5697DE21BC2C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikvm.8", "ikvm\ikvm.8.csproj", "{4FBAFF23-1E48-4977-8C50-30F87E70A8B5}"
@@ -10,7 +12,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikvmc.8", "ikvmc.8.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKVM.AWT.WinForms.8", "awt\IKVM.AWT.WinForms.8.csproj", "{E00A0FA2-1FD7-4DD9-8C06-7202CE366102}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ikvm-native", "native\native.9.vcproj", "{14EC8F2A-90C6-4CFC-AD26-04C9A3392B8E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ikvm-native", "native\native.9.vcxproj", "{14EC8F2A-90C6-4CFC-AD26-04C9A3392B8E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKVM.Runtime.JNI.8", "runtime\IKVM.Runtime.JNI.8.csproj", "{CEA4FEC4-1D24-4004-908E-F86C8D7AC772}"
 EndProject
