@@ -54,7 +54,7 @@
 @cli.System.Reflection.AssemblyTitleAttribute.Annotation("IKVM.NET OpenJDK Library for .NET")
 @cli.System.Reflection.AssemblyProductAttribute.Annotation("IKVM.NET")
 @cli.System.Reflection.AssemblyCompanyAttribute.Annotation("Jeroen Frijters")
-@cli.System.Reflection.AssemblyInformationalVersionAttribute.Annotation("8.5.0.1")
+@cli.System.Reflection.AssemblyInformationalVersionAttribute.Annotation("8.5.0.2")
 
 @cli.System.Runtime.CompilerServices.InternalsVisibleToAttribute.Annotation.__Multiple({
     @cli.System.Runtime.CompilerServices.InternalsVisibleToAttribute.Annotation("IKVM.Runtime, PublicKey=00240000048000009400000006020000002400005253413100040000010001006925CBFB38BA2BB7A562B8BC6E6C3AC8E94B78AEEA42BD2AF261171E6A2E8B58A47009FE6C28300AE986AF85B93FA7E6668DAEA2A126607B7CB65CEE49DBB9852D40737812D92A2D2EF7A3DC84FB4FD421B63976CBB8C37A81596C0A4ACB340C40549249868DE685AF1566681FCB782D7381BE5AC70A5B291726B478A9B652BB"),
