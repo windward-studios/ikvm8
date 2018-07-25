@@ -62,7 +62,7 @@
                 <include name="IKVM.OpenJDK.*.dll" />
                 <include name="IKVM.Runtime.dll" />
                 <include name="IKVM.Runtime.JNI.dll" />
-                <include name="IKVM.Reflection.dll">
+                <include name="IKVM.Reflection.dll"/>
             </fileset>
         </copy>
         <!-- <copy file="../bin/ikvm-native-win32-x64.dll" todir="Package/x64/lib" />
