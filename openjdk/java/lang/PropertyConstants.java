@@ -25,9 +25,9 @@ package java.lang;
 
 interface PropertyConstants
 {
-    String awt_toolkit = "ikvm.awt.NetToolkit, IKVM.AWT.WinForms, Version=8.5.0.2, Culture=neutral, PublicKeyToken=00d957d768bec828";
-    String java_awt_graphicsenv = "ikvm.awt.NetGraphicsEnvironment, IKVM.AWT.WinForms, Version=8.5.0.2, Culture=neutral, PublicKeyToken=00d957d768bec828";
-    String java_vm_version = "8.5.0.2";
-    String java_runtime_version = "8.5.0.2";
+    String awt_toolkit = "ikvm.awt.NetToolkit, IKVM.AWT.WinForms, Version=8.5.0.3, Culture=neutral, PublicKeyToken=00d957d768bec828";
+    String java_awt_graphicsenv = "ikvm.awt.NetGraphicsEnvironment, IKVM.AWT.WinForms, Version=8.5.0.3, Culture=neutral, PublicKeyToken=00d957d768bec828";
+    String java_vm_version = "8.5.0.3";
+    String java_runtime_version = "8.5.0.3";
     String openjdk_version = "OpenJDK 8u45 b14";
 }
